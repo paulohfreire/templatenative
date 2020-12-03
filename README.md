@@ -9,7 +9,7 @@
 - 1 - yarn start
 - 2- npx react-native run-android   ou yarn run react-native run-android  ou yarn android
 
-### Para instalar:
+### Instalar também:
 React Navigation
 - yarn add @react-navigation/native
 - yarn add react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
