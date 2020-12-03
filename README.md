@@ -1,4 +1,3 @@
-# templatenative
 
 ## REACT NATIVE - TEMPLATE MODEL
 - Criado a partir do:
